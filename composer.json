@@ -1,0 +1,14 @@
+{
+    "require": {
+        "slim/slim": "^4.10",
+        "slim/http": "^1.2",
+        "slim/psr7": "^1.5",
+        "httpsoft/http-message": "^1.0",
+        "httpsoft/http-server-request": "^1.0",
+        "nyholm/psr7": "^1.5",
+        "nyholm/psr7-server": "^1.0",
+        "guzzlehttp/psr7": "^2.2",
+        "laminas/laminas-diactoros": "^2.11",
+        "twig/twig": "^3.0"
+    }
+}
